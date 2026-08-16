@@ -1,0 +1,15 @@
+{
+  "name": "dsh-token-meter",
+  "description": "模型用量仪表盘：设置页「用量」板块，按服务商/模型汇总历史用量",
+  "version": "0.1.0",
+  "entry": {
+    "name": "dsh-token-meter",
+    "inject": [
+      "@deepseek-ai/dsh-client-runtime",
+      "@deepseek-ai/dsh-client-ui-slots"
+    ]
+  },
+  "client": {
+    "platform": "web"
+  }
+}

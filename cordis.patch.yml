@@ -1,0 +1,4 @@
+# dsh-token-meter bundle patch —— `dsh plugin add` 安装时自动应用
+- insert:
+    - id: dsh-token-meter
+      name: dsh-token-meter
